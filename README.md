@@ -1,3 +1,3 @@
 # Capstone_Two
-Data wrangling
+Data wrangling, 
 EDA
