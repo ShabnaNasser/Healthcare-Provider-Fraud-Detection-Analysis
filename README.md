@@ -6,6 +6,7 @@ The goal of this project is to predict the potentially fraudulent providers base
 - Data wrangling
 - EDA
 - Preprocessing
+- Modeling
 
 #### What is Healthcare Fraud?
 
