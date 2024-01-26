@@ -23,8 +23,8 @@ This case study aims to "predict the potentially fraudulent providers" based on 
 
 We can project the above problem to a binary classification problem to find whether the provider is fraud or non-fraud. Using the claim details submitted by that provider.
 
-Key Achievements:
-🔍 Data Wrangling: Unraveled complex healthcare datasets, ensuring optimal data quality and structure for analysis.
-📊 EDA: Conducted in-depth exploratory data analysis to uncover patterns, anomalies, and potential indicators of fraud within the claims data.
-🛠️ Preprocessing: Employed robust preprocessing techniques to clean, transform, and prepare the data for modeling, ensuring accuracy and reliability.
-🤖 Modeling: Leveraged cutting-edge machine learning models to predict potentially fraudulent providers, contributing to the proactive identification of irregularities.
+#### Key Achievements:
+* 🔍 Data Wrangling: Unraveled complex healthcare datasets, ensuring optimal data quality and structure for analysis.
+* 📊 EDA: Conducted in-depth exploratory data analysis to uncover patterns, anomalies, and potential indicators of fraud within the claims data.
+* 🛠️ Preprocessing: Employed robust preprocessing techniques to clean, transform, and prepare the data for modeling, ensuring accuracy and reliability.
+* 🤖 Modeling: Leveraged cutting-edge machine learning models to predict potentially fraudulent providers, contributing to the proactive identification of irregularities. Used Logistic Regression, Random Forest and Decision Tree models.
